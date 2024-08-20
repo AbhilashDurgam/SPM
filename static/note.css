@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    margin-top: 5%;
+    border: 1px solid red;
+    padding: 2%;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    width: auto;
+    height: auto;
+    background: linear-gradient(rgba(7, 7, 7, 0.46),white);
+}
